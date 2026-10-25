@@ -31,8 +31,7 @@ Supervisor: Dr. Manjeet Singh, NIT Jalandhar
 - [**Human activity recognition**](https://github.com/Abhi-s20/Human-activity-recognition): signal-processing features vs. 1D-CNN and BiLSTM on smartphone motion sensors. 93.9% leave-one-subject-out accuracy over 30 subjects.
 - **Robust brain tumor segmentation** (ongoing): 3D U-Net on BraTS MRI, followed by experiments on missing MRI sequences.
 - [**Pothole detection**](https://github.com/Abhi-s20/pothole-detection): real-time YOLO-tiny detector with geotagging (B.Tech final-year project).
-- **Finance RAG**: citation-grounded question answering over SEC 10-K/10-Q filings, served with FastAPI and React.
-
+- [**FinSights AI**](https://github.com/Abhi-s20/finsights-ai): citation-grounded question answering over SEC 10-K/10-Q filings, with hybrid dense and sparse retrieval, served through FastAPI and a Next.js interface.
 ## Tools
 
 Python · PyTorch · PyTorch Geometric · scikit-learn · OpenCV · FastAPI · Docker · Git
